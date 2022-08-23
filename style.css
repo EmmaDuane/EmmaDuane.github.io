@@ -5,6 +5,9 @@ body{
     margin-right: 25px;
     color: white;
 }
+body div {
+    color: white;
+}
 body p{
     margin-left: 10px;
     margin-right: 10px;
