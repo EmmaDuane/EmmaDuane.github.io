@@ -1,0 +1,64 @@
+body{
+    background-color: #B9FFBB;
+    font-family: sans-serif, "Verdana";
+    margin-left: 25px;
+    margin-right: 25px;
+}
+body p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.flexImage img{
+    width: 100%;
+    padding: 2px;
+    position: relative;
+    border: 2px solid white;
+}
+#imagesFlexbox{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    max-width: 25%;
+    min-width: 100px;
+    margin: 5px;
+    float: right;
+}
+#myName{
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    min-width: 500px;
+    text-align: center;
+    border-bottom: 2px solid white;
+    color: #987FF9;
+}
+#intro{
+    text-align: center;
+}
+#menuList{
+    display: flex;
+    flex-flow: row wrap;
+    margin: 5px;
+    justify-content: center;
+    font-size: 11pt;
+    list-style-type: none;
+}
+a{
+    margin: 4px;
+    color: #987FF9;
+}
+a:hover{
+    color: #49DDF3;
+    font-size: 12pt;
+}
+@media all and (max-width:800px){
+    body{
+        font-size: .8em;
+    }
+}
+.sectionTitle{
+    position: relative;
+    text-align: center;
+    color: #987FF9;
+    text-decoration: underline solid 2px
+}
