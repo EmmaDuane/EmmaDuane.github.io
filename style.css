@@ -6,7 +6,7 @@ body{
     color: white;
 }
 body div {
-    color: #699573;
+    color: #a5bfab;
 }
 body p{
     margin-left: 10px;
@@ -34,7 +34,7 @@ body p{
     min-width: 500px;
     text-align: center;
     border-bottom: 2px solid white;
-    color: #987FF9;
+    color: /*#987FF9*/ #aba5be;
 }
 #intro{
     text-align: center;
@@ -64,6 +64,6 @@ a:hover{
 .sectionTitle{
     position: relative;
     text-align: center;
-    color: #987FF9;
+    color: /*#987FF9*/ #aba5be;
     text-decoration: underline solid 2px
 }
