@@ -56,7 +56,7 @@ a{
 }
 a:hover{
     color: #49DDF3;
-    font-size: 16pt;
+    font-size: 15pt;
 }
 @media all and (max-width:800px){
     body{
