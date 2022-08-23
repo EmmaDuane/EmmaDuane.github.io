@@ -55,6 +55,7 @@ a:hover{
 @media all and (max-width:800px){
     body{
         font-size: .8em;
+        color: white;
     }
 }
 .sectionTitle{
