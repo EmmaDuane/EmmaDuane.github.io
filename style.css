@@ -7,6 +7,7 @@ body{
 }
 body div {
     color: #a5beab;
+    margin-top: 20px;
     padding-left: 40px;
     padding-right: 40px;
 }
@@ -31,7 +32,7 @@ body div {
     width: 100%;
     min-width: 500px;
     text-align: center;
-    border-bottom: 1px solid white;
+    border-bottom: .5px solid white;
     color: #987FF9;
     font-family: "Gill Sans", sans-serif;
     font-size: 28pt;
