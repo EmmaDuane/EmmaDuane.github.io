@@ -34,9 +34,11 @@ body div {
     border-bottom: 1px solid white;
     color: #987FF9;
     font-family: Courier, monospace;
+    font-size: 28pt;
 }
 #intro{
     text-align: center;
+    font-size: 18pt;
 }
 #menuList{
     display: flex;
