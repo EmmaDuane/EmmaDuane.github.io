@@ -3,11 +3,11 @@ body{
     font-family: "Andalé Mono", monospace;
     margin-left: 25px;
     margin-right: 25px;
+    color: white;
 }
 body p{
     margin-left: 10px;
     margin-right: 10px;
-    color: white;
 }
 .flexImage img{
     width: 100%;
