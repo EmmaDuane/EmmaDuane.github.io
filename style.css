@@ -33,6 +33,7 @@ body div {
     text-align: center;
     border-bottom: 1px solid white;
     color: #987FF9;
+    font-family: Courier, monospace;
 }
 #intro{
     text-align: center;
@@ -56,12 +57,12 @@ a:hover{
 @media all and (max-width:800px){
     body{
         font-size: .8em;
-        color: white;
     }
 }
 .sectionTitle{
     position: relative;
     text-align: center;
     color: #987FF9;
-    text-decoration: underline solid 2px
+    text-decoration: underline solid 2px;
+    font-family: "Andalé Mono", monospace;
 }
