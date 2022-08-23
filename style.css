@@ -47,6 +47,7 @@ body div {
     justify-content: center;
     font-size: 14pt;
     list-style-type: none;
+    font-family: "Andalé Mono", monospace;
 }
 a{
     margin: 4px;
