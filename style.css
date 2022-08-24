@@ -49,6 +49,7 @@ body div {
     font-size: 14pt;
     list-style-type: none;
     font-family: "Andalé Mono", monospace;
+    background-color: black;
 }
 .sticky { /* The sticky class is added to the navbar with JS when it reaches its scroll position */
   position: fixed;
