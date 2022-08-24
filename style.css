@@ -50,6 +50,15 @@ body div {
     list-style-type: none;
     font-family: "Andalé Mono", monospace;
 }
+.sticky { /* The sticky class is added to the navbar with JS when it reaches its scroll position */
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sticky + .content {
+    /* Add some top padding to the page content to prevent sudden quick movement*/
+  padding-top: 60px;
+}
 a{
     margin: 4px;
     color: #987FF9;
