@@ -50,6 +50,13 @@ body div {
     list-style-type: none;
     font-family: "Andalé Mono", monospace;
     background-color: black;
+    overflow: hidden;
+}
+li a {
+    background-color: #383838;
+}
+li a:hover {
+    background-color: black;
 }
 .sticky { /* The sticky class is added to the navbar with JS when it reaches its scroll position */
   position: fixed;
